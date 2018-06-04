@@ -27,7 +27,6 @@ function listeDePubOuvert() {
                 ouvert.push(liste[i]);
             }
         }
-
     }
     return ouvert;
 }
