@@ -1,0 +1,20 @@
+{
+  "name": "nodejs_pub_service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valentinlemarie/nodejs_pub_service.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/valentinlemarie/nodejs_pub_service/issues"
+  },
+  "homepage": "https://github.com/valentinlemarie/nodejs_pub_service#readme"
+}
